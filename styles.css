@@ -5,4 +5,15 @@ body{
 
 .circle{
     background-color: aqua;
+    margin: auto;
+    padding: 10%;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+footer{
+    color: black
 }
