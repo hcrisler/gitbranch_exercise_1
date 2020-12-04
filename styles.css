@@ -2,7 +2,8 @@ body{
     font-size: medium;
     background-color:red;
 }
-.circle{
+
+circle{
     color: aqua;
     background-color: royalblue;
     width: 100px;
